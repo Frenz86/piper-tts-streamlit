@@ -1,0 +1,333 @@
+{
+  "Portuguese (Portuguese, Brazil)": {
+    "edresson": {
+      "model_name": "pt_BR-edresson-low"
+    },
+    "faber": {
+      "model_name": "pt_BR-faber-medium"
+    }
+  },
+  "Polish (Polish, Poland)": {
+    "mls_6892": {
+      "model_name": "pl_PL-mls_6892-low"
+    },
+    "gosia": {
+      "model_name": "pl_PL-gosia-medium"
+    },
+    "darkman": {
+      "model_name": "pl_PL-darkman-medium"
+    },
+    "mc_speech": {
+      "model_name": "pl_PL-mc_speech-medium"
+    }
+  },
+  "English (English, Great Britain)": {
+    "southern_english_female": {
+      "model_name": "en_GB-southern_english_female-low"
+    },
+    "vctk": {
+      "model_name": "en_GB-vctk-medium"
+    },
+    "alan": {
+      "model_name": "en_GB-alan-medium"
+    },
+    "northern_english_male": {
+      "model_name": "en_GB-northern_english_male-medium"
+    },
+    "jenny_dioco": {
+      "model_name": "en_GB-jenny_dioco-medium"
+    },
+    "semaine": {
+      "model_name": "en_GB-semaine-medium"
+    },
+    "alba": {
+      "model_name": "en_GB-alba-medium"
+    },
+    "aru": {
+      "model_name": "en_GB-aru-medium"
+    }
+  },
+  "Vietnamese (Vietnamese, Vietnam)": {
+    "vivos": {
+      "model_name": "vi_VN-vivos-x_low"
+    },
+    "vais1000": {
+      "model_name": "vi_VN-vais1000-medium"
+    },
+    "25hours_single": {
+      "model_name": "vi_VN-25hours_single-low"
+    }
+  },
+  "English (English, United States)": {
+    "kusal": {
+      "model_name": "en_US-kusal-medium"
+    },
+    "amy": {
+      "model_name": "en_US-amy-low"
+    },
+    "joe": {
+      "model_name": "en_US-joe-medium"
+    },
+    "ryan": {
+      "model_name": "en_US-ryan-high"
+    },
+    "lessac": {
+      "model_name": "en_US-lessac-low"
+    },
+    "kathleen": {
+      "model_name": "en_US-kathleen-low"
+    },
+    "hfc_male": {
+      "model_name": "en_US-hfc_male-medium"
+    },
+    "arctic": {
+      "model_name": "en_US-arctic-medium"
+    },
+    "l2arctic": {
+      "model_name": "en_US-l2arctic-medium"
+    },
+    "libritts_r": {
+      "model_name": "en_US-libritts_r-medium"
+    },
+    "libritts": {
+      "model_name": "en_US-libritts-high"
+    },
+    "danny": {
+      "model_name": "en_US-danny-low"
+    }
+  },
+  "Spanish (Spanish, Spain)": {
+    "davefx": {
+      "model_name": "es_ES-davefx-medium"
+    },
+    "mls_9972": {
+      "model_name": "es_ES-mls_9972-low"
+    },
+    "sharvard": {
+      "model_name": "es_ES-sharvard-medium"
+    },
+    "mls_10246": {
+      "model_name": "es_ES-mls_10246-low"
+    },
+    "carlfm": {
+      "model_name": "es_ES-carlfm-x_low"
+    }
+  },
+  "German (German, Germany)": {
+    "thorsten": {
+      "model_name": "de_DE-thorsten-high"
+    },
+    "kerstin": {
+      "model_name": "de_DE-kerstin-low"
+    },
+    "ramona": {
+      "model_name": "de_DE-ramona-low"
+    },
+    "karlsson": {
+      "model_name": "de_DE-karlsson-low"
+    },
+    "thorsten_emotional": {
+      "model_name": "de_DE-thorsten_emotional-medium"
+    },
+    "pavoque": {
+      "model_name": "de_DE-pavoque-low"
+    },
+    "eva_k": {
+      "model_name": "de_DE-eva_k-x_low"
+    }
+  },
+  "Russian (Russian, Russia)": {
+    "irina": {
+      "model_name": "ru_RU-irina-medium"
+    },
+    "ruslan": {
+      "model_name": "ru_RU-ruslan-medium"
+    },
+    "denis": {
+      "model_name": "ru_RU-denis-medium"
+    },
+    "dmitri": {
+      "model_name": "ru_RU-dmitri-medium"
+    }
+  },
+  "Luxembourgish (Luxembourgish, Luxembourg)": {
+    "marylux": {
+      "model_name": "lb_LU-marylux-medium"
+    }
+  },
+  "French (French, France)": {
+    "mls_1840": {
+      "model_name": "fr_FR-mls_1840-low"
+    },
+    "upmc": {
+      "model_name": "fr_FR-upmc-medium"
+    },
+    "siwis": {
+      "model_name": "fr_FR-siwis-low"
+    },
+    "gilles": {
+      "model_name": "fr_FR-gilles-low"
+    }
+  },
+  "Serbian (Serbian, Serbia)": {
+    "serbski_institut": {
+      "model_name": "sr_RS-serbski_institut-medium"
+    }
+  },
+  "Swahili (Swahili, Democratic Republic of the Congo)": {
+    "lanfrica": {
+      "model_name": "sw_CD-lanfrica-medium"
+    }
+  },
+  "Icelandic (Icelandic, Iceland)": {
+    "ugla": {
+      "model_name": "is_IS-ugla-medium"
+    },
+    "salka": {
+      "model_name": "is_IS-salka-medium"
+    },
+    "bui": {
+      "model_name": "is_IS-bui-medium"
+    },
+    "steinn": {
+      "model_name": "is_IS-steinn-medium"
+    }
+  },
+  "Kazakh (Kazakh, Kazakhstan)": {
+    "issai": {
+      "model_name": "kk_KZ-issai-high"
+    },
+    "iseke": {
+      "model_name": "kk_KZ-iseke-x_low"
+    },
+    "raya": {
+      "model_name": "kk_KZ-raya-x_low"
+    }
+  },
+  "Hungarian (Hungarian, Hungary)": {
+    "anna": {
+      "model_name": "hu_HU-anna-medium"
+    },
+    "imre": {
+      "model_name": "hu_HU-imre-medium"
+    },
+    "berta": {
+      "model_name": "hu_HU-berta-medium"
+    }
+  },
+  "Swedish (Swedish, Sweden)": {
+    "nst": {
+      "model_name": "sv_SE-nst-medium"
+    }
+  },
+  "Spanish (Spanish, Mexico)": {
+    "ald": {
+      "model_name": "es_MX-ald-medium"
+    }
+  },
+  "Portuguese (Portuguese, Portugal)": {
+    "tug\u00e3o": {
+      "model_name": "pt_PT-tug\u00e3o-medium"
+    }
+  },
+  "Catalan (Catalan, Spain)": {
+    "upc_pau": {
+      "model_name": "ca_ES-upc_pau-x_low"
+    },
+    "upc_ona": {
+      "model_name": "ca_ES-upc_ona-medium"
+    }
+  },
+  "Romanian (Romanian, Romania)": {
+    "mihai": {
+      "model_name": "ro_RO-mihai-medium"
+    }
+  },
+  "Dutch (Dutch, Belgium)": {
+    "rdh": {
+      "model_name": "nl_BE-rdh-x_low"
+    },
+    "nathalie": {
+      "model_name": "nl_BE-nathalie-x_low"
+    }
+  },
+  "Nepali (Nepali, Nepal)": {
+    "google": {
+      "model_name": "ne_NP-google-medium"
+    }
+  },
+  "Czech (Czech, Czech Republic)": {
+    "jirka": {
+      "model_name": "cs_CZ-jirka-low"
+    }
+  },
+  "Slovak (Slovak, Slovakia)": {
+    "lili": {
+      "model_name": "sk_SK-lili-medium"
+    }
+  },
+  "Turkish (Turkish, Turkey)": {
+    "fahrettin": {
+      "model_name": "tr_TR-fahrettin-medium"
+    },
+    "dfki": {
+      "model_name": "tr_TR-dfki-medium"
+    }
+  },
+  "Finnish (Finnish, Finland)": {
+    "harri": {
+      "model_name": "fi_FI-harri-low"
+    }
+  },
+  "Danish (Danish, Denmark)": {
+    "talesyntese": {
+      "model_name": "da_DK-talesyntese-medium"
+    }
+  },
+  "Norwegian (Norwegian, Norway)": {
+    "talesyntese": {
+      "model_name": "no_NO-talesyntese-medium"
+    }
+  },
+  "Arabic (Arabic, Jordan)": {
+    "kareem": {
+      "model_name": "ar_JO-kareem-medium"
+    }
+  },
+  "Georgian (Georgian, Georgia)": {
+    "natia": {
+      "model_name": "ka_GE-natia-medium"
+    }
+  },
+  "Chinese (Chinese, China)": {
+    "huayan": {
+      "model_name": "zh_CN-huayan-x_low"
+    }
+  },
+  "Italian (Italian, Italy)": {
+    "riccardo": {
+      "model_name": "it_IT-riccardo-x_low"
+    }
+  },
+  "Ukrainian (Ukrainian, Ukraine)": {
+    "lada": {
+      "model_name": "uk_UA-lada-x_low"
+    },
+    "ukrainian_tts": {
+      "model_name": "uk_UA-ukrainian_tts-medium"
+    }
+  },
+  "Greek (Greek, Greece)": {
+    "rapunzelina": {
+      "model_name": "el_GR-rapunzelina-low"
+    }
+  },
+  "Dutch (Dutch, Netherlands)": {
+    "mls_7432": {
+      "model_name": "nl_NL-mls_7432-low"
+    },
+    "mls_5809": {
+      "model_name": "nl_NL-mls_5809-low"
+    }
+  }
+}

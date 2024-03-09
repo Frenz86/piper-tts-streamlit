@@ -1,0 +1,6 @@
+##ffmpeg
+piper-tts
+onnxruntime
+streamlit
+python-docx
+pydub
